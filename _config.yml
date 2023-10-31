@@ -1,7 +1,8 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Aairish Singh
 logo: /assets/img/images-9.png
-description: My resume/blog site
+description: My resume+blog: In progress
+theme: jekyll-theme-minimal
