@@ -15,12 +15,42 @@ CGPA - 3.83/4.0
 CGPA - 8/10
 
 ## Technical Stack
-* **Languages:** Python | C | C++ | SQL | Kotlin
-* **Frameworks:** PyTorch | PyTorch-Ligthning | gpytorch|Tensorflow-Keras|Python Django
-* **OS:** Linux|Windows
-* **Packages:** Numpy|Pandas|Matplotlib|Scikit-Learn|Seaborn|OpenCV
-* **Software/Systems:** Git|Tableau|Adobe Photoshop|Blender-3D
+* **Languages:** Python(main language), SQL, Kotlin, C, C++, R, Java, MATLAB
+* **Frameworks:** PyTorch, PyTorch-Ligthning, Tensorflow-Keras, Python Django
+* **OS:** Linux, Windows
+* **Packages:** Numpy, Pandas, Matplotlib, Scikit-Learn, Seaborn, OpenCV
+* **Software/Systems:** Git, Tableau, Adobe Photoshop, Blender-3D, Android Studio
 
+## Projects
+**Breast Cancer Detection**
+- Used PyTorch-Lightning to build a Deep Learning System
+- Used Python to code Variational Autoencoders
+- Learnt how to use Computer Vision in the field of Medical Imaging
+  
+**Vehicle Detection for Self-Driving Cars**
+- Implemented a real time vehicle detection system
+- Used YOLO algorithm and PyTorch
 
+**DeepFake Detection System**
+- Built a Deep Learning model using PyTorch that differentiates artificially generated fake images/videos from real ones.
+- Created a Django Web App to provide an interactive interface to the users, with the DL model running in backend.
+- Implemented ResNext CNN architecture
 
+**Art Generation with Neural Style Transfer**
+- Built a Deep Learning model that can redraw an Art in the style of another Art
+- Used Transfer Learning with VGG-19
 
+**Object Localization/Detection System**
+- Used Pytorch and OpenCV-python to identify and localize different objects
+
+**DNS-over-HTTPS Data Analysis**
+- Analyzed and classified DoH traffic data into Malicious and Benign
+
+## Certifications
+**Data Analysis with Python | IBM (_July 2023_)**
+**Databases and SQL for Data Science with Python | IBM (_July 2023_)**
+**Deep Learning Specialization | DeepLearning.AI (_February 2022_)**
+
+## Customer Service Work Experience
+**Cashier** - Reliance Mart India (_May 2022 - July 2022_)
+**Cashier & Server** - Grills Gone Wild, India (_June 2022 - July 2022_)
