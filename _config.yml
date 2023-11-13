@@ -3,6 +3,6 @@
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Aairish Singh
-logo: /assets/img/images-9.png
+logo: assets/img/lnly.jpg
 description: My resume+blog - In progress
 theme: jekyll-theme-minimal
