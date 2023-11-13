@@ -15,8 +15,8 @@ CGPA - 3.83/4.0
 CGPA - 8/10
 
 ## Technical Stack
-* **Languages:** Python|C|C++|SQL|Kotlin
-* **Frameworks:** PyTorch|PyTorch-Ligthning|gpytorch|Tensorflow-Keras|Python Django
+* **Languages:** Python | C | C++ | SQL | Kotlin
+* **Frameworks:** PyTorch | PyTorch-Ligthning | gpytorch|Tensorflow-Keras|Python Django
 * **OS:** Linux|Windows
 * **Packages:** Numpy|Pandas|Matplotlib|Scikit-Learn|Seaborn|OpenCV
 * **Software/Systems:** Git|Tableau|Adobe Photoshop|Blender-3D
