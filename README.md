@@ -8,10 +8,10 @@
 - Building an android app and deploying a DL + statistical model in backend
 
 ## Education
-**Master of Science, Computer Science | The University of Texas at Arlington (_August 2022 - Present_)**
+**Master of Science, Computer Science | The University of Texas at Arlington (_August 2022 - Present_)**<br>
 CGPA - 3.83/4.0
 
-**Bachelor of Technology, Computer Science & Engineering | National Institute of Technology Jalandhar, India (_August 2018 - May 2022_)**
+**Bachelor of Technology, Computer Science & Engineering | National Institute of Technology Jalandhar, India (_August 2018 - May 2022_)**<br>
 CGPA - 8/10
 
 ## Technical Stack
