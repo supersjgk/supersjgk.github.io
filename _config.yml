@@ -4,5 +4,5 @@ plugins:
 
 title: Aairish Singh
 logo: assets/img/lnly.jpg
-description: my_link: "<a href='https://supersjgk.github.io/'>RESUME</a>" "<a href='https://www.linkedin.com/in/aairishsingh'>LinkedIn</a>"
+description: "<a href='https://supersjgk.github.io/'>RESUME</a>" "<a href='https://www.linkedin.com/in/aairishsingh'>LinkedIn</a>"
 theme: jekyll-theme-minimal
