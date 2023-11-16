@@ -1,5 +1,3 @@
-[Wordcloud](./fun.md)
-
 #### Computer Science Engineer specializing in Deep Learning and Data Analytics seeking internships/full-time roles to apply expertise in real-world scenarios.
 
 ## Work Experience
@@ -58,3 +56,5 @@ CGPA - 8/10
 ## Customer Service Work Experience
 **Cashier** - Reliance Mart India (_May 2022 - July 2022_) <br>
 **Cashier & Server** - Grills Gone Wild, India (_June 2022 - July 2022_) <br>
+
+[Wordcloud](./fun.md)
