@@ -1,3 +1,5 @@
+[Wordcloud](./fun.md)
+
 #### Computer Science Engineer specializing in Deep Learning and Data Analytics seeking internships/full-time roles to apply expertise in real-world scenarios.
 
 ## Work Experience
