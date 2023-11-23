@@ -1,4 +1,4 @@
-[For Fun](./fun.md) &nbsp; [My Medium](https://medium.com/@supersjgk)
+[For Fun](./fun.md)&nbsp;&nbsp;&nbsp;&nbsp;[My Medium](https://medium.com/@supersjgk)
 
 #### Computer Science Engineer specializing in Deep Learning and Data Analytics seeking internships/full-time roles to apply expertise in real-world scenarios.
 
