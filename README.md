@@ -8,6 +8,7 @@
 - Developing advanced non-paramteric statistical models to effectively predict relationships between datasets
 - Involved in signal processing, data collection, data cleaning and data analysis
 - Building an android app and deploying a DL + statistical model in backend
+- Web development
 
 ## Education
 **Master of Science, Computer Science** <br>
@@ -20,12 +21,16 @@ CGPA - 8/10
 
 ## Technical Stack
 * **Languages:** Python(main language), SQL, Kotlin, C, C++, R, Java, MATLAB
-* **Frameworks:** PyTorch, PyTorch-Ligthning, Tensorflow-Keras, Python Django
+* **Frameworks:** PyTorch, Hugging Face, PyTorch-Ligthning, Tensorflow-Keras, Python Django
 * **OS:** Linux, Windows
 * **Packages:** Numpy, Pandas, Matplotlib, Scikit-Learn, Seaborn, OpenCV
 * **Software/Systems:** Git, Tableau, Adobe Photoshop, Blender-3D, Android Studio
 
 ## Projects
+**Image Classification**
+- Fine-tuned a Vision Transformer using Hugging Face, PyTorch, and Trainer API
+- Achieved a test accuracy of 97.3% on Cifar-10 dataset
+
 **Breast Cancer Detection**
 - Used PyTorch-Lightning to build a Deep Learning System
 - Used Python to code Variational Autoencoders
