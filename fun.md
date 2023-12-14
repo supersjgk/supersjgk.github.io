@@ -1,7 +1,7 @@
-##### Blender animation - Car on a bridge
+##### McLaren on a bridge
 ![car](/assets/img/car.gif)
-##### Wordcloud
-![wordcloud](/assets/img/wordcloud1.png)
-##### Blender animation - Robot with mechanical arms
+##### Vibing iPhone
+![iphone](/assets/img/iphone-dance.gif)
+##### Robot with mechanical arms
 ![robo-arms-blender](/assets/img/roboarms.gif)
 
