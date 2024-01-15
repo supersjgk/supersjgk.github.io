@@ -62,6 +62,8 @@ CGPA - 8/10
 - Analyzed and classified DoH traffic data into Malicious and Benign
 
 ## Certifications
+**Cloud Machine Learning Engineering and MLOps | Duke University** (__Jan 2024__) <br>
+**Microsoft Azure Machine Learning** (__Jan 2024__) <br>
 **Data Analysis with Python | IBM** (_July 2023_) <br>
 **Databases and SQL for Data Science with Python | IBM** (_July 2023_) <br>
 **Deep Learning Specialization | DeepLearning.AI** (_February 2022_) <br>
